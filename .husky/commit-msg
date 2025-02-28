@@ -1,0 +1,3 @@
+# 关键：使用 --edit "$1"
+npx --no -- commitlint --edit "$1"  # 或 yarn commitlint --edit "$1"
+
